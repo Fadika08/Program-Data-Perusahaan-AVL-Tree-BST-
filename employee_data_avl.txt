@@ -1,0 +1,10 @@
+201,Jack Johnson,Manager,80000
+202,Kate Anderson,Developer,75000
+203,Luke Evans,Analyst,70000
+204,Mia Clark,Designer,78000
+205,Nathan Hall,Intern,45000
+206,Olivia Moore,Engineer,85000
+207,Peter Adams,Manager,90000
+208,Quinn Turner,Analyst,72000
+209,Ryan Parker,Developer,77000
+220,Muchammad Fadika,Manager,900000

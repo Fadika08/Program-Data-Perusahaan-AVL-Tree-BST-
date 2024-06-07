@@ -1,0 +1,11 @@
+101,John Doe,Manager,60000
+102,Jane Smith,Developer,50000
+103,Bob Johnson,Analyst,45000
+104,Alice Williams,Designer,55000
+105,Charlie Brown,Intern,30000
+106,David Lee,Engineer,65000
+107,Emily Davis,Manager,70000
+108,Frank White,Analyst,48000
+109,Gina Miller,Developer,52000
+110,Hank Wilson,Designer,58000
+120,Siti rahma,manager,80000
